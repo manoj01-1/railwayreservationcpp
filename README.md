@@ -38,6 +38,4 @@ The Railway Ticket Reservation System is a console-based application developed i
 - Implement a database for persistent storage of user and ticket data.
 - Enhance security features for user authentication.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
